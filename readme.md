@@ -142,5 +142,74 @@ Prometheus and Grafana are lightweight enough to run on the Pi and provide a pow
 
 6.  **Create a Dashboard**: Build a new dashboard and create panels to visualize your BME680 data using the PromQL query language (e.g., `bme680_temperature_celsius`).
 
-# TODO
-Make the python script start automatically on reboot. (as a service)
+# Python script as a service
+To make your Python script run as a service that starts automatically at boot, you'll create a **systemd service file**. This is the standard method on Ubuntu to manage background processes.
+
+-----
+
+### 1\. Create the Service File
+
+First, create a new file with `sudo` in the `/etc/systemd/system/` directory. Name it to reflect your script, for example, `bme680-exporter.service`.
+
+```bash
+sudo nano /etc/systemd/system/bme680-exporter.service
+```
+
+Paste the following content into the file. Be sure to replace `/home/bent/pi_bme680_project/` with the actual path to your project directory.
+
+```ini
+[Unit]
+Description=BME680 Prometheus Exporter
+After=network.target
+
+[Service]
+User=bent
+ExecStart=/home/bent/pi_bme680_project/.venv/bin/python /home/bent/pi_bme680_project/bme680_exporter.py
+WorkingDirectory=/home/bent/pi_bme680_project
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+```
+
+**Explanation of the key lines:**
+
+  * **`Description`**: A brief description of your service.
+  * **`After=network.target`**: Ensures the service starts only after the network is up and running, which is necessary for the HTTP server to work.
+  * **`User`**: Specifies the user the service will run as (`bent`). This is important so the script has the correct permissions to access the GPIO and I2C devices.
+  * **`ExecStart`**: The full path to the Python interpreter within your virtual environment, followed by the full path to your script. This is crucial for the script to find its dependencies.
+  * **`WorkingDirectory`**: Sets the working directory, which can be useful if your script uses relative paths.
+  * **`Restart=always`**: Tells systemd to automatically restart the service if it ever fails.
+  * **`WantedBy=multi-user.target`**: Ensures the service starts automatically when the system boots into a multi-user environment.
+
+-----
+
+### 2\. Enable and Start the Service
+
+After you've saved the file, use `systemctl` to tell the system about the new service and to enable it so it starts on boot.
+
+1.  **Reload the daemon**: This command makes systemd aware of the new service file.
+    ```bash
+    sudo systemctl daemon-reload
+    ```
+2.  **Enable the service**: This creates a symlink to make the service start at boot.
+    ```bash
+    sudo systemctl enable bme680-exporter.service
+    ```
+3.  **Start the service**: Start the service immediately without rebooting.
+    ```bash
+    sudo systemctl start bme680-exporter.service
+    ```
+
+-----
+
+### 3\. Verify the Service Status
+
+You can check if the service is running correctly with the `status` command.
+
+```bash
+sudo systemctl status bme680-exporter.service
+```
+
+If everything is working, the output will show the service as **`active (running)`**. You can also run `journalctl -u bme680-exporter.service` to see the log output from your script.
