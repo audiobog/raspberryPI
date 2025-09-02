@@ -141,3 +141,6 @@ Prometheus and Grafana are lightweight enough to run on the Pi and provide a pow
 5.  **Add a Prometheus Data Source**: In Grafana, go to **Connections** -\> **Add new connection** -\> **Prometheus**. Point the URL to your local Prometheus server: `http://localhost:9090`.
 
 6.  **Create a Dashboard**: Build a new dashboard and create panels to visualize your BME680 data using the PromQL query language (e.g., `bme680_temperature_celsius`).
+
+# TODO
+Make the python script start automatically on reboot. (as a service)
