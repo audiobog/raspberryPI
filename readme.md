@@ -107,7 +107,7 @@ Prometheus and Grafana are lightweight enough to run on the Pi and provide a pow
 
     ```bash
     # (Skip if you downloaded the binary)
-    sudo apt install -y git build-essential golang
+    sudo apt install -y git build-essential golang nodejs npm
     git clone https://github.com/prometheus/prometheus.git
     cd prometheus && make build
     ```
