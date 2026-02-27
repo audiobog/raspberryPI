@@ -1,0 +1,300 @@
+2026-02-25 09:15:05	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:05	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:05	System3.Notice	how3-nws-csb.how3-l1-sas.dom	[0x00030004 892] SNMP Set by HOW3SNMPuserRO: sysContact.0 = To Be Decided Later
+2026-02-25 09:15:06	User.Warning	how3-nws-2a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:06	User.Warning	how3-nws-2a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:06	System3.Notice	how3-nws-cna.how3-l1-sas.dom	[0x00030004 1170] SNMP Set by HOW3SNMPuserRO: sysContact.0 = ABB SAS Engineer
+2026-02-25 09:15:06	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:06	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:07	User.Warning	how3-nws-2a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:07	User.Warning	how3-nws-2a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:07	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:07	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:08	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:09	System3.Notice	how3-nws-csa.how3-l1-sas.dom	[0x00030004 1446] SNMP Set by HOW3SNMPuserRO: sysContact.0 = ABB SAS Engineer
+2026-02-25 09:15:10	System3.Notice	how3-nws-snb.how3-l1-sas.dom	[0x00030004 832] SNMP Set by HOW3SNMPuserRO: sysContact.0 = To Be Decided Later
+2026-02-25 09:15:12	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] The last message was repeated 2 times
+2026-02-25 09:15:12	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:13	User.Warning	how3-nws-2a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:13	User.Warning	how3-nws-2a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:13	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:13	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:14	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:18	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] The last message was repeated 2 times
+2026-02-25 09:15:18	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/2
+2026-02-25 09:15:18	User.Warning	how3-nws-2a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:19	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] Port Monitor Overload detection upper threshold on interface 1/1
+2026-02-25 09:15:14	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1068] SNMP Set by SNMPuserFW: sysContact.0 = ABB SAS Engineer
+2026-02-25 09:15:23	System3.Notice	how3-nws-iec61850-a.how3-l1-sas.dom	[0x00030004 1002] SNMP Set by HOW3SNMPuserRO: sysContact.0 = ABB SAS Engineer
+2026-02-25 09:15:20	User.Warning	how3-nws-pn1a.how3-l1-sas.dom	[PORT_MON tPortMon 0x002b000b] The last message was repeated 1 time
+2026-02-25 09:27:03	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1069] HTTP(S) Login via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 09:27:22	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1070] CfgMgr Action copy config runningConfig NVM result=ok Ready
+2026-02-25 09:28:01	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1071] HTTP(S) Logout via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 09:31:23	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	Feb 25 09:15:16 [0x00000000 1476] SNMP Set by SNMPuserFW: sysContact.0 = ABB SAS Engineer
+2026-02-25 09:31:03	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	[0x00000000 1477] HTTP(S) Login via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 09:35:04	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	[0x00000000 1478] CfgMgr Action copy config runningConfig Remote result=ERROR "Unsupported protocol" Ready
+2026-02-25 09:35:45	User.Error	how3-nws-pn1a.how3-l1-sas.dom	[LIGHTY tLighty 0x00140087] HTTP(S) authentication failed for user 'HOW3SNMPuserRO'.
+2026-02-25 09:36:43	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	[0x00000000 1479] HTTP(S) Logout via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 10:01:07	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	[0x00000000 1480] HTTP(S) Login via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 10:01:08	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	[0x00000000 1481] CfgMgr Action copy config running-config remote result=ok Ready
+2026-02-25 10:03:19	System3.Notice	how3-nws-snb.how3-l1-sas.dom	[0x001400c6 833] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Administrator', from '192.168.106.3'.
+2026-02-25 10:03:22	System3.Notice	how3-nws-snb.how3-l1-sas.dom	[0x00040003 834] CfgMgr Action copy script system remote result=ok user='HOW3SNMPuserRO' Ready
+2026-02-25 10:37:26	System3.Notice	how3-nws-csb.how3-l1-sas.dom	[0x001400c6 893] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Administrator', from '192.168.106.3'.
+2026-02-25 10:37:29	System3.Notice	how3-nws-csb.how3-l1-sas.dom	[0x00040003 894] CfgMgr Action copy script system remote result=ok user='HOW3SNMPuserRO' Ready
+2026-02-25 12:12:05	System3.Notice	how3-nws-pna.how3-l1-sas.dom	[0x001400c6 3943] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Guest', from '192.168.106.3'.
+2026-02-25 12:38:29	Daemon.Error	how3-ntp-a.how3-l1-sas.dom	ntpd[15491]: leapsecond file ('/etc/leap_second'): expired 60 days ago
+
+2026-02-25 12:40:42	Daemon.Error	how3-ntp-b.how3-l1-sas.dom	ntpd[27337]: leapsecond file ('/etc/leap_second'): expired 60 days ago
+
+2026-02-25 12:51:44	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1072] SNMP Set by SNMPuserFW: hm2FMActionDestinationData.0 = 
+2026-02-25 12:51:44	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1073] SNMP Set by SNMPuserFW: hm2FMActionSourceData.0 = 
+2026-02-25 12:51:44	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1075] SNMP Set by SNMPuserFW: hm2FMActionSourceData.0 = tftp://0.0.0.0/configs/2026_02_25_$NAME_192_168_104_031.cfg
+2026-02-25 12:51:44	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1076] SNMP Set by SNMPuserFW: hm2FMActionActivate.2.10.10.20 = 3
+2026-02-25 12:51:44	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1074] SNMP Set by SNMPuserFW: hm2FMActionDestinationData.0 = tftp://0.0.0.0/configs/2026_02_25_$NAME_192_168_104_031.cfg
+2026-02-25 12:51:46	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1077] CfgMgr Action copy config runningConfig Remote result=ERROR "Unsupported protocol" Ready
+2026-02-25 12:51:46	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1078] SNMP Set by SNMPuserFW: hm2FMActionDestinationData.0 = 
+2026-02-25 12:51:46	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1079] SNMP Set by SNMPuserFW: hm2FMActionSourceData.0 = 
+2026-02-25 12:52:21	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1080] SNMP Set by SNMPuserFW: hm2FMActionDestinationData.0 = 
+2026-02-25 12:52:21	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1081] SNMP Set by SNMPuserFW: hm2FMActionSourceData.0 = 
+2026-02-25 12:52:21	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1082] SNMP Set by SNMPuserFW: hm2FMActionDestinationData.0 = tftp://192.168.106.35/2026_02_25_$NAME_192_168_104_031.cfg
+2026-02-25 12:52:21	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1083] SNMP Set by SNMPuserFW: hm2FMActionSourceData.0 = tftp://192.168.106.35/2026_02_25_$NAME_192_168_104_031.cfg
+2026-02-25 12:52:21	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1084] SNMP Set by SNMPuserFW: hm2FMActionActivate.2.10.10.20 = 4
+2026-02-25 12:52:22	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1085] CfgMgr Action copy config runningConfig Remote result=ERROR "Unsupported protocol" Ready
+2026-02-25 12:52:22	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1086] SNMP Set by SNMPuserFW: hm2FMActionDestinationData.0 = 
+2026-02-25 12:52:22	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1087] SNMP Set by SNMPuserFW: hm2FMActionSourceData.0 = 
+2026-02-25 12:58:13	System3.Notice	how3-nws-cna.how3-l1-sas.dom	[0x001400c6 1171] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Administrator', from '192.168.106.3'.
+2026-02-25 12:58:16	System3.Notice	how3-nws-cna.how3-l1-sas.dom	[0x00040003 1172] CfgMgr Action copy script system remote result=ok user='HOW3SNMPuserRO' Ready
+2026-02-25 13:01:43	System3.Notice	how3-nws-iec61850-a.how3-l1-sas.dom	[0x001400c6 1003] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Administrator', from '192.168.106.3'.
+2026-02-25 13:01:49	System3.Notice	how3-nws-iec61850-a.how3-l1-sas.dom	[0x00040003 1004] CfgMgr Action copy script system remote result=ok user='HOW3SNMPuserRO' Ready
+2026-02-25 13:15:12	User.Error	how3-nws-3b.how3-l1-sas.dom	[LIGHTY tLighty 0x00140087] HTTP(S) authentication failed for user 'HOW3SNMPuserRO'.
+2026-02-25 13:29:33	System0.Notice	how3-ntp-a.how3-l1-sas.dom	mainv2[14307]: pam_faillock(http:auth): User unknown
+
+2026-02-25 13:33:18	System3.Notice	how3-nws-iec61850-a.how3-l1-sas.dom	[0x001400c6 1005] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Administrator', from '192.168.106.3'.
+2026-02-25 13:33:25	System3.Notice	how3-nws-iec61850-a.how3-l1-sas.dom	[0x00040003 1006] CfgMgr Action copy script system remote result=ok user='HOW3SNMPuserRO' Ready
+2026-02-25 13:40:50	System0.Notice	how3-ntp-b.how3-l1-sas.dom	mainv2[29676]: pam_faillock(http:auth): User unknown
+
+2026-02-25 13:40:50	User.Error	how3-ntp-a.how3-l1-sas.dom	call_cpc: Failed to claim device bus:addr 001:014, addr 0x8195aa8, ID 1938:0101 intf 0: libusb err -6: LIBUSB_ERROR_BUSY
+
+2026-02-25 13:43:04	User.Error	how3-nws-snb.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = A0:B0:86:C5:8D:42).
+2026-02-25 13:43:07	User.Error	how3-nws-srv2a.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = A0:B0:86:C5:8C:C2).
+2026-02-25 13:43:04	User.Warning	how3-ntp-a.how3-l1-sas.dom	mbgsvcd: No usable device found!
+
+2026-02-25 13:43:04	User.Warning	how3-ntp-a.how3-l1-sas.dom	mbgsvcd: Shutting down.
+
+2026-02-25 13:43:12	User.Error	how3-nws-sna.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = 00:00:23:43:A6:C0).
+2026-02-25 13:43:18	User.Error	how3-nws-srv1a.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = 00:00:23:43:9C:A0).
+2026-02-25 13:43:24	Daemon.Warning	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: Found more matching USB devices (1) than supported (1) by this application
+
+2026-02-25 13:43:25	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:43:25	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: ERROR: no connection to lantimed!
+
+2026-02-25 13:43:28	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:43:28	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: ERROR: no connection to lantimed!
+
+2026-02-25 13:43:36	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:43:36	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: ERROR: no connection to lantimed!
+
+2026-02-25 13:43:44	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:43:44	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: ERROR: no connection to lantimed!
+
+2026-02-25 13:43:50	Daemon.Error	how3-ntp-a.how3-l1-sas.dom	mbg_snmpd[9858]: select timeout for cmd 394 (get socket info): No such file or directory
+
+2026-02-25 13:43:52	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:43:52	System0.Error	how3-ntp-a.how3-l1-sas.dom	lt_cli[14449]: ERROR: no connection to lantimed!
+
+2026-02-25 13:43:53	Daemon.Error	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: CLK1 Not Sync  
+
+2026-02-25 13:43:54	Daemon.Warning	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: MRS Source: No Signal Reference Source: 1 (CLK1 GNSS) 
+
+2026-02-25 13:43:54	Daemon.Warning	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: MRS Source: No Signal Reference Source: 2 (CLK1 NTP) 
+
+2026-02-25 13:43:57	User.Error	how3-ntp-a.how3-l1-sas.dom	mainv2[15614]: select timeout for cmd 458 (get socket info): No such file or directory
+
+2026-02-25 13:43:58	User.Critical	how3-ntp-a.how3-l1-sas.dom	mainv2[15614]: Possible cross-site scripting attack detected: blocked: #
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: ntpd 4.2.8p18-mbg-02-o Tue Dec  2 02:14:08 PM UTC 2025 (3): Starting
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: Command line: /sbin/ntpd -p /var/run/ntpd.pid -g -G
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: ----------------------------------------------------
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: ntp-4 is maintained by Network Time Foundation,
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: Inc. (NTF), a non-profit 501(c)(3) public-benefit
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: corporation.  Support and training for ntp-4 are
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: available at https://www.nwtime.org/support
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: ----------------------------------------------------
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19186]: DEBUG behavior is enabled - a violation of any diagnostic assertion will cause ntpd to abort
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19197]: leapsecond file ('/etc/leap_second'): good hash signature
+
+2026-02-25 13:44:10	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19197]: leapsecond file ('/etc/leap_second'): loaded, expire=2026-12-28T00:00:00Z last=2017-01-01T00:00:00Z ofs=37
+
+2026-02-25 13:44:13	Daemon.Warning	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: Self Signed HTTPS Certificate In Use  
+
+2026-02-25 13:44:15	Daemon.Warning	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: Try again later
+
+2026-02-25 13:44:15	Daemon.Warning	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: Try again later
+
+2026-02-25 13:44:18	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19197]: Doing intital time step
+
+2026-02-25 13:44:29	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[19197]: ntpd exiting on signal 15 (Terminated)
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: ntpd 4.2.8p18-mbg-02-o Tue Dec  2 02:14:08 PM UTC 2025 (3): Starting
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: Command line: /sbin/ntpd -p /var/run/ntpd.pid -g -G
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: ----------------------------------------------------
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: ntp-4 is maintained by Network Time Foundation,
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: Inc. (NTF), a non-profit 501(c)(3) public-benefit
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: corporation.  Support and training for ntp-4 are
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: available at https://www.nwtime.org/support
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: ----------------------------------------------------
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23752]: DEBUG behavior is enabled - a violation of any diagnostic assertion will cause ntpd to abort
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23758]: leapsecond file ('/etc/leap_second'): good hash signature
+
+2026-02-25 13:44:36	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23758]: leapsecond file ('/etc/leap_second'): loaded, expire=2026-12-28T00:00:00Z last=2017-01-01T00:00:00Z ofs=37
+
+2026-02-25 13:44:38	Daemon.Notice	how3-ntp-a.how3-l1-sas.dom	ntpd[23758]: Doing intital time step
+
+2026-02-25 13:45:10	System0.Notice	how3-ntp-a.how3-l1-sas.dom	mainv2[25276]: pam_faillock(http:auth): User unknown
+
+2026-02-25 13:45:22	Daemon.Warning	how3-ntp-a.how3-l1-sas.dom	LANTIME[14489]: Oscillator Not Adjusted CLK: 1  
+
+2026-02-25 13:45:32	User.Error	how3-ntp-a.how3-l1-sas.dom	mainv2[14851]: select timeout for cmd 435 (get socket info): No such file or directory
+
+2026-02-25 13:45:32	User.Critical	how3-ntp-a.how3-l1-sas.dom	mainv2[14851]: Possible cross-site scripting attack detected: blocked: #
+
+2026-02-25 13:45:51	Daemon.Error	how3-ntp-b.how3-l1-sas.dom	LANTIME[15180]: IMS Error IMS Module: 8 IMS-Slot CPU: Error: could not write data to flash (could not open file) 
+
+2026-02-25 13:46:01	User.Error	how3-ntp-b.how3-l1-sas.dom	call_cpc: Failed to claim device bus:addr 001:014, addr 0x9fdfaa8, ID 1938:0101 intf 0: libusb err -6: LIBUSB_ERROR_BUSY
+
+2026-02-25 13:46:08	Daemon.Error	how3-ntp-b.how3-l1-sas.dom	sync_mon[22059]: select timeout for cmd 309 (get socket info): Read-only file system
+
+2026-02-25 13:48:31	Daemon.Warning	how3-ntp-b.how3-l1-sas.dom	LANTIME[14290]: Found more matching USB devices (1) than supported (1) by this application
+
+2026-02-25 13:48:32	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:48:32	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: ERROR: no connection to lantimed!
+
+2026-02-25 13:48:35	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:48:35	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: ERROR: no connection to lantimed!
+
+2026-02-25 13:48:41	Daemon.Error	how3-ntp-b.how3-l1-sas.dom	lt_cmd[14327]: select timeout (get socket info): Success
+
+2026-02-25 13:48:43	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:48:43	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: ERROR: no connection to lantimed!
+
+2026-02-25 13:48:51	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: select timeout for cmd 16 (get socket info): No such file or directory
+
+2026-02-25 13:48:51	System0.Error	how3-ntp-b.how3-l1-sas.dom	lt_cli[14198]: ERROR: no connection to lantimed!
+
+2026-02-25 13:48:56	Daemon.Error	how3-ntp-b.how3-l1-sas.dom	mbg_snmpd[9891]: select timeout for cmd 394 (get socket info): No such file or directory
+
+2026-02-25 13:48:59	Daemon.Error	how3-ntp-b.how3-l1-sas.dom	LANTIME[14290]: CLK1 Not Sync  
+
+2026-02-25 13:49:01	Daemon.Warning	how3-ntp-b.how3-l1-sas.dom	LANTIME[14290]: MRS Source: No Signal Reference Source: 1 (CLK1 GNSS) 
+
+2026-02-25 13:49:13	Daemon.Warning	how3-ntp-b.how3-l1-sas.dom	LANTIME[14290]: Try again later
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: ntpd 4.2.8p18-mbg-02-o Tue Dec  2 02:14:08 PM UTC 2025 (3): Starting
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: Command line: /sbin/ntpd -p /var/run/ntpd.pid -g -G
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: ----------------------------------------------------
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: ntp-4 is maintained by Network Time Foundation,
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: Inc. (NTF), a non-profit 501(c)(3) public-benefit
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: corporation.  Support and training for ntp-4 are
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: available at https://www.nwtime.org/support
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: ----------------------------------------------------
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19754]: DEBUG behavior is enabled - a violation of any diagnostic assertion will cause ntpd to abort
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19773]: leapsecond file ('/etc/leap_second'): good hash signature
+
+2026-02-25 13:49:14	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19773]: leapsecond file ('/etc/leap_second'): loaded, expire=2026-12-28T00:00:00Z last=2017-01-01T00:00:00Z ofs=37
+
+2026-02-25 13:49:18	Daemon.Warning	how3-ntp-b.how3-l1-sas.dom	LANTIME[14290]: Self Signed HTTPS Certificate In Use  
+
+2026-02-25 13:49:19	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19773]: Doing intital time step
+
+2026-02-25 13:49:34	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[19773]: ntpd exiting on signal 15 (Terminated)
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: ntpd 4.2.8p18-mbg-02-o Tue Dec  2 02:14:08 PM UTC 2025 (3): Starting
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: ----------------------------------------------------
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: ntp-4 is maintained by Network Time Foundation,
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: Inc. (NTF), a non-profit 501(c)(3) public-benefit
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: corporation.  Support and training for ntp-4 are
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: available at https://www.nwtime.org/support
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: Command line: /sbin/ntpd -p /var/run/ntpd.pid -g -G
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: ----------------------------------------------------
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22997]: DEBUG behavior is enabled - a violation of any diagnostic assertion will cause ntpd to abort
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22999]: leapsecond file ('/etc/leap_second'): good hash signature
+
+2026-02-25 13:49:40	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22999]: leapsecond file ('/etc/leap_second'): loaded, expire=2026-12-28T00:00:00Z last=2017-01-01T00:00:00Z ofs=37
+
+2026-02-25 13:49:42	Daemon.Notice	how3-ntp-b.how3-l1-sas.dom	ntpd[22999]: Doing intital time step
+
+2026-02-25 13:50:27	Daemon.Warning	how3-ntp-b.how3-l1-sas.dom	LANTIME[14290]: Oscillator Not Adjusted CLK: 1  
+
+2026-02-25 14:01:52	System0.Notice	how3-ntp-b.how3-l1-sas.dom	mainv2[16418]: pam_faillock(http:auth): User unknown
+
+2026-02-25 14:08:36	User.Error	how3-nws-snb.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = A0:B0:86:C5:8D:42).
+2026-02-25 14:08:40	User.Error	how3-nws-srv2a.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = 00:00:23:43:A6:C0).
+2026-02-25 14:08:52	User.Error	how3-nws-sna.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = A0:B0:86:C5:8A:C2).
+2026-02-25 14:08:56	User.Error	how3-nws-srv1a.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = A0:B0:86:C5:8E:42).
+2026-02-25 14:09:00	System3.Notice	how3-nws-srv1a.how3-l1-sas.dom	[0x001400c6 2298] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Guest', from '192.168.106.3'.
+2026-02-25 14:46:35	User.Error	how3-nws-pn2b.how3-l1-sas.dom	[LIGHTY tLighty 0x00140087] HTTP(S) authentication failed for user 'HOW3SNMPuserRO'.
+2026-02-25 14:46:35	User.Error	how3-nws-pn2b.how3-l1-sas.dom	[LIGHTY tLighty 0x00140087] HTTP(S) authentication failed for user 'HOW3SNMPuserRO'.
+2026-02-25 14:56:26	System3.Notice	how3-nws-srv2a.how3-l1-sas.dom	[0x001400c6 1480] HTTP(S) Login via web interface successful for user 'kreck', role 'Administrator', from '192.168.106.3'.
+2026-02-25 14:59:52	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1088] HTTP(S) Login via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 14:59:53	System3.Notice	how3-nfw-ups-b.how3-l1-sas.dom	[0x00000000 1089] CfgMgr Action copy config running-config remote result=ok Ready
+2026-02-25 15:04:21	System3.Notice	how3-nfw-esg.how3-l1-sas.dom	Feb 25 09:15:07 [0x00000000 1721] SNMP Set by SNMPuserFW: sysContact.0 = ABB SAS Engineer
+2026-02-25 15:04:11	System3.Notice	how3-nfw-esg.how3-l1-sas.dom	[0x00000000 1722] HTTP(S) Login via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 15:04:11	System3.Notice	how3-nfw-esg.how3-l1-sas.dom	[0x00000000 1723] CfgMgr Action copy config running-config remote result=ok Ready
+2026-02-25 15:04:21	System3.Notice	how3-nfw-esg.how3-l1-sas.dom	Feb 25 09:15:07 [0x00000000 1721] SNMP Set by SNMPuserFW: sysContact.0 = ABB SAS Engineer
+2026-02-25 15:04:11	System3.Notice	how3-nfw-esg.how3-l1-sas.dom	[0x00000000 1722] HTTP(S) Login via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 15:04:11	System3.Notice	how3-nfw-esg.how3-l1-sas.dom	[0x00000000 1723] CfgMgr Action copy config running-config remote result=ok Ready
+2026-02-25 15:04:25	System3.Notice	how3-nws-srv2a.how3-l1-sas.dom	[0x001400c7 1481] HTTP(S) Logout via web interface successful for user 'kreck', role 'Administrator', from '192.168.106.3'.
+2026-02-25 16:13:59	User.Error	how3-nws-pn4a.how3-l1-sas.dom	[LIGHTY tLighty 0x00140087] HTTP(S) authentication failed for user 'HOW3SNMPuserRO'.
+2026-02-25 16:54:38	User.Error	how3-nws-sna.how3-l1-sas.dom	[LIGHTY tLighty 0x00140087] HTTP(S) authentication failed for user 'HOW3SNMPuserRO'.
+2026-02-25 16:58:34	System3.Notice	how3-nws-iec61850-1a.how3-l1-sas.dom	[0x001400c6 1009] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Guest', from '192.168.106.3'.
+2026-02-25 17:38:03	User.Error	how3-nws-iec61850-2a.how3-l1-sas.dom	[LIGHTY tLighty 0x00140087] HTTP(S) authentication failed for user 'HOW3SNMPuserRO'.
+2026-02-25 18:42:27	System3.Notice	how3-nws-csb.how3-l1-sas.dom	[0x001400c6 895] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Administrator', from '192.168.106.3'.
+2026-02-25 18:42:30	System3.Notice	how3-nws-csb.how3-l1-sas.dom	[0x00040003 896] CfgMgr Action copy script system remote result=ok user='HOW3SNMPuserRO' Ready
+2026-02-25 19:53:27	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	[0x00000000 1482] HTTP(S) Login via web interface successful for user 'SNMPuserFW', role 'Administrator', from '192.168.106.3'.
+2026-02-25 19:53:27	System3.Notice	how3-nfw-ups-a.how3-l1-sas.dom	[0x00000000 1483] CfgMgr Action copy config running-config remote result=ok Ready
+2026-02-25 22:02:16	System3.Notice	how3-nws-pnb.how3-l1-sas.dom	[0x001400c6 1295] HTTP(S) Login via web interface successful for user 'HOW3SNMPuserRO', role 'Guest', from '192.168.106.3'.
+2026-02-25 23:32:45	User.Error	how3-nws-csa.how3-l1-sas.dom	[LLDP tLLDPTask 0x000f0005] Too many neighbours detected on interface 1/30 (Remote Chassis Id = A0:B0:86:C5:8C:82).
