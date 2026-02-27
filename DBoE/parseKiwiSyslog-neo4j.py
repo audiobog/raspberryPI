@@ -31,7 +31,7 @@ def extract_and_load(file_path):
         
         with driver.session() as session:
             # We pass the list of hosts to a single query for efficiency
-            session.write_transaction(create_nodes, list(unique_hosts))
+            session.execute_write(create_nodes, list(unique_hosts))
             
         driver.close()
         print("Successfully imported hosts into Neo4j!")
